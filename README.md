@@ -33,7 +33,7 @@ Frontend (React + Vite)  →  Backend (FastAPI)  →  MongoDB Atlas
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Arunpragash22/learningApp.git
+git clone https://github.com/KeranShama/final-project.git
 cd learningApp
 ```
 
@@ -209,7 +209,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Arunpragash22 - [GitHub](https://github.com/Arunpragash22)
+This project is maintained by the development team.
 
 ## 🙏 Acknowledgments
 

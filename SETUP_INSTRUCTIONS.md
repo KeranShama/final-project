@@ -180,7 +180,7 @@ Add JWT authentication and fix 404 on page refresh
 ## 🔗 GitHub Repository
 
 Your changes have been successfully pushed to:
-- Repository: `https://github.com/Arunpragash22/learningApp.git`
+- Repository: `https://github.com/KeranShama/final-project.git`
 - Branch: `master`
 
 ---
